@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DietManager</string>
+    <string name="dis1">Diabetes</string>
+    <string name="dis2">Anaemia</string>
+    <string name="dis3">Scurvy</string>
+    <string name="dis4">Diarrhea </string>
+    <string name="dis5">High Cholesterol</string>
+    <string name="dis6">Goitre</string>
+</resources>
